@@ -1,11 +1,6 @@
 # Spark_internship
 All the work done at Spark drives and automation during the internship.
 
-## Objectives
-* To learn the process of development of a commercial product in industry.
-* To work on the development of a software prototype of an IoT enabled vending machine, which enables the inventory manager to track changes in item quantity.
-* To learn how different parts of hardware and software are connected in a commercial product.
-
 ## Reports
 * The file "maininternship.odt" is a complete report of all the work I have done during the internship.
 * The file "tutorialdoc.odt" is a how-to-do instructions of the backend to the inventory management system. The data is hosted on adafruit.com
