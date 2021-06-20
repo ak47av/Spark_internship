@@ -17,7 +17,3 @@ All the work done at Spark drives and automation during the internship.
 ## Python files
 * The "editadafruit.py" file enables inventory management with the data hosted on adafruit.com.
 * The "mainUI.py" file is the frontend displayed to the customer on a raspberry-pi, which also outputs data on the serial port of the raspberry-pi.
-
-## Takeaways
-* The internship laid a platform for further exploration into full-stack web development and microcontroller applications.
-* The internship helped me learn about the stages of development of a commercial product and the importance of collaborating with colleagues in order to deliver the best work possible.
